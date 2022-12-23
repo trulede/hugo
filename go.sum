@@ -1,2 +1,4 @@
 github.com/trulede/raspberry.docker v0.0.0-20221223141926-e1c8096bba76 h1:/AHI1AZEk1Q7l5xxaPLVKrUKOPWo27jfhdw7XT6d+pw=
 github.com/trulede/raspberry.docker v0.0.0-20221223141926-e1c8096bba76/go.mod h1:i2ZHhgda4EH3Rd187wzoiRFSSJ7HsmJV7YmBBxLdSTw=
+github.com/trulede/raspberry.docker v0.0.0-20221223204444-00e7913e6278 h1:ZvHWKg+3hAhf7iX8eMTFHBGday4rF1VlosLveTKelqc=
+github.com/trulede/raspberry.docker v0.0.0-20221223204444-00e7913e6278/go.mod h1:i2ZHhgda4EH3Rd187wzoiRFSSJ7HsmJV7YmBBxLdSTw=

@@ -1,5 +1,5 @@
-module github.com/trulede/hugo-doc
+module github.com/trulede/hugo
 
 go 1.15
 
-require github.com/trulede/raspberry.docker v0.0.0-20221223141926-e1c8096bba76 // indirect
+require github.com/trulede/raspberry.docker v0.0.0-20221223204444-00e7913e6278 // indirect
