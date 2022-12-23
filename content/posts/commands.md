@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-
+```bash
 sudo apt install hugo
 hugo version
 hugo new site hugo -f "yaml"
@@ -21,3 +21,4 @@ git push -u origin main
 mkdir -p .github/workflows
 touch .github/workflows/gh-pages.yaml
 hugo new posts/commands.md
+```
